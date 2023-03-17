@@ -4,7 +4,7 @@
 A Notion-like application with React. See the demo [here](https://lotion-ensf381.netlify.app/).
 
 ### `npm install`
-Install the required packages. You need to do this step before starting the app.
+Installs the required packages. You need to do this step before starting the app.
 
 
 ### `npm start`
